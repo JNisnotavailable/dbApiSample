@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+*.class
+.mtj.tmp/
+
+.idea
+.mvn
+.iml
+
+**/target
